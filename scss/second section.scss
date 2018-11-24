@@ -1,0 +1,100 @@
+.wrapper__second-section_size {
+    width: 1600px;
+    height: 580px;
+    background: #fff;
+}
+.wrapper__caption-article_position {
+    margin-top: 85px;
+}
+.text__caption-second-section_style {
+    font-size: 24px;
+    font-family: Lato, Arial, Helvetica, sans-serif;
+    color: #383737;
+    text-align: center;
+    margin-bottom: 22px;
+}
+.text__content-second-section_style {
+    font-size: 15px;
+    font-family: Montserrat, Arial, Helvetica, sans-serif;
+    color: #a2a2a2;
+    text-align: center;
+}
+.wrapper__tables_position {
+    flex-direction: column;
+    align-items: center;
+}
+.table__select-host_style {
+    margin-top: 50px;
+    width: 890px;
+    height: 50px;
+    border: 2px solid #d9d9d9;
+    border-collapse: collapse;
+}
+.row__middle_border-style {
+    td {
+        border-right: 2px solid #d9d9d9;
+    }
+}
+.column__left_size {
+    width: 70px;
+}
+.column__right_size {
+    width: 87px;
+    text-align: center;
+    vertical-align: middle;
+}
+.text__col_left-right_style {
+    font-size: 16px;
+    font-family: Lato, Arial, Helvetica, sans-serif;
+    color: #cbcbcb;
+    text-align: left;
+    text-align: center;
+    vertical-align: middle;
+}
+.text__col_center_style {
+    font-size: 15px;
+    font-family: Lato, Arial, Helvetica, sans-serif;
+    color: #868686;
+    text-align: left;
+    font-weight: bold;
+    padding-left: 15px;
+}
+.table__select_border {
+    border: none;
+}
+.table__main-content_style {
+    font-size: 14px;
+    font-family: Lato, Arial, Helvetica, sans-serif;
+    color: #cbcbcb;
+    text-align: center;
+    vertical-align: middle;
+    width: 890px;
+    height: 195px;
+    border: 2px solid #d9d9d9;
+    border-collapse: collapse;
+    margin-top: 39px;
+}
+.col__left-and-right-main-table_size {
+    width: 27px;
+}
+.row__top-and-bottom-main-table_size_border {
+    height: 20px;
+}
+.row__hide-border_height {
+    height: 7px;
+}
+.cell_hide-border_width {
+    width: 7px;
+}
+.cell__main-content_size {
+    width: 190px;
+}
+.border__cell-main-conent {
+    border-right: 2px solid #d9d9d9;
+}
+.border__cell-main-conent_bottom {
+    border-bottom: 2px solid #d9d9d9;
+}
+.text__domain-in-cell_style {
+    text-transform: uppercase;
+}
