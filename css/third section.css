@@ -201,3 +201,11 @@
 
 .image__dash-4block_under_cost {
   background: #1abc9c; }
+
+.container__flex {
+  justify-content: center; }
+
+.container__border_dotted {
+  width: 1210px;
+  height: 10px;
+  border-top: 2px dotted #d6d6d6; }
