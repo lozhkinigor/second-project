@@ -1,0 +1,104 @@
+.wrapper__footer_size {
+  width: 1600px;
+  height: 292px;
+  background: #2a2a2a; }
+
+.wrapper__header-of-footer_center {
+  justify-content: center; }
+
+.wrapper__header-of-footer_size {
+  width: 1200px;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 21px;
+  border-bottom: 1px solid #4a4a4a;
+  padding-bottom: 20px; }
+
+.menu__footer_list_style li {
+  display: inline-block;
+  margin-left: 40px; }
+
+.menu__footer_list_style a {
+  text-decoration: none;
+  font-size: 13px;
+  font-family: Lato, Arial, Helvetica, sans-serif;
+  color: #616161;
+  text-align: left;
+  text-transform: uppercase; }
+
+.menu__footer_list_style a:hover {
+  color: #fff; }
+
+.wrapper__footer-all-content {
+  width: 1200px;
+  justify-content: space-between;
+  margin-top: 34px; }
+
+.wrapper__footer-all-content_center {
+  justify-content: center; }
+
+.wrapper__content-footer_margin_top {
+  margin-top: 15px; }
+
+.text__footer-left-content_size {
+  width: 377px;
+  height: 150px;
+  font-size: 15px;
+  font-family: Lato, Arial, Helvetica, sans-serif;
+  color: #686868;
+  line-height: 1.733;
+  text-align: left;
+  border-right: 1px solid #4a4a4a;
+  flex-direction: column; }
+
+.text__footer-left-content {
+  width: 322px;
+  height: 100px; }
+
+.text__footer-left-content_author_margin {
+  margin-top: 16px; }
+
+.wrapper__ul-all_size {
+  width: 420px;
+  border-right: 1px solid #4a4a4a; }
+
+.list__footer-content li {
+  list-style-image: url(../images/footer/content/for_list.png);
+  font-size: 14.978px;
+  font-family: Lato, Arial, Helvetica, sans-serif;
+  color: #686868;
+  line-height: 29px; }
+
+.list__footer-content li:hover {
+  color: #fff;
+  margin-left: 2px; }
+
+.list__footer-content_left-side {
+  margin-left: 42px;
+  width: 108px; }
+
+.list__footer-content_right-side {
+  margin-left: 74px; }
+
+.text__phone-nember_style a {
+  font-size: 14px;
+  font-family: Lato, Arial, Helvetica, sans-serif;
+  color: #686868;
+  text-decoration: none; }
+
+.text__mail_style {
+  margin-top: 12px; }
+  .text__mail_style a {
+    font-size: 14.609px;
+    font-family: Lato, Arial, Helvetica, sans-serif;
+    color: #686868;
+    text-decoration: none; }
+
+.text__footer-right-content {
+  margin-top: 10px;
+  font-size: 14.978px;
+  font-family: Lato, Arial, Helvetica, sans-serif;
+  color: #686868; }
+
+.wrapper__footer-content-right_size {
+  height: 150px; }
